@@ -1,5 +1,14 @@
 # WinSight: IPL Winning Factors Analytics
 
+## Key Insights
+
+| Factor | Impact |
+|----------|----------|
+| Toss Winner Win % | 51.47% |
+| Score 200+ Win % | 85.87% |
+| Avg Death Overs Runs (Winners) | 54.53 |
+| Avg Death Overs Runs (Losers) | 45.30 |
+
 ## Overview
 
 This project analyzes 225,000+ IPL ball-by-ball records and 950 IPL matches to identify factors influencing match outcomes.
